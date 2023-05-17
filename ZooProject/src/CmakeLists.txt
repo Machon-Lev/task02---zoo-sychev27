@@ -1,7 +1,0 @@
-target_sources (ZooProject PRIVATE "ZooProject.cpp"
-                                     "Location.cpp"
-                                     "Animal.cpp"
-                                     "Lion.cpp"
-                                     "Dog.cpp"
-                                     "Owl.cpp"
-                                     "Zoo.cpp")
